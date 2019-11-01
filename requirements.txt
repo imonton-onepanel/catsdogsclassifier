@@ -1,0 +1,8 @@
+pandas
+keras
+flask
+tensorflow >= 0
+IPython.display >= 0
+PIL.Image >= 0
+pathlib >= 0
+numpy >= 0
